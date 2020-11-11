@@ -8,7 +8,9 @@ I'm Steve, Scottish :scotland: computer engineer :computer: and semiconductor pr
 
 - [Financial Matching Engine](http://www.github.com/stephenry/ob) A high-performance financial :dollar: matching engine for FPGA targets.
 
-- [Hardware Quicksort](http://www.github.com/stephenry/qs) A novel (and pointless) implementation of the common quicksort algorithm in hardware (as a microcoded sequencer).
+- [Hardware Quicksort](http://www.github.com/stephenry/qs) A novel implementation of the common quicksort algorithm in hardware (as a microcoded sequencer).
+
+- [Packet Parser](http://www.github.com/stephenry/m) A packet matching design example.
 
 - [Logic Design Interview Questions](http://www.github.com/stephenry/hw_interview_questions) A set of common hardware related design questions, for those interested in a career in the semiconductor industry.
 
