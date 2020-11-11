@@ -12,6 +12,7 @@ I'm Steve, Scottish :scotland: computer engineer :computer:. Welcome to my Githu
 
 - [Logic Design Interview Questions](http://www.github.com/stephenry/hw_interview_questions) A set of common hardware related design questions, for those interested in a career in the semiconductor industry (not recommended!).
 
+I am based in both the US (Bay Area) :us: and UK (London) :uk: and share dual-UK/-USA nationality :customs:. I am not actively seeking employment. 
 
 
 <!--
