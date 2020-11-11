@@ -6,7 +6,7 @@ I'm Steve, Scottish :scotland: computer engineer :computer:. Welcome to my Githu
 
 - [Cache Coherency Simulator](http://www.github.com/stephenry/cc) A event-driven Cache Coherency protocol simulator for multiprocessor System-On-Chips (SOC). 
 
-- [Financial Matching Engine](http://www.github.com/stephenry/ob) A high-performance financial matching engine for FPGA targets.
+- [Financial Matching Engine](http://www.github.com/stephenry/ob) A high-performance financial :dollar: matching engine for FPGA targets.
 
 - [Hardware Quicksort](http://www.github.com/stephenry/qs) A novel (and pointless) implementation of the common quicksort algorithm in hardware (as a microcoded sequencer).
 
