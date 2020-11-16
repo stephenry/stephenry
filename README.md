@@ -4,7 +4,7 @@ I'm Steve, Scottish :scotland: computer engineer :computer: and semiconductor pr
 
  - [__Pool Allocator__](http://www.github.com/stephenry/pa) A production quality Pool Allocator subsystem for an enterprise-class Network     Processor (NPU) and associated C++17 verification environment.
 
-- [__Cache Coherency Simulator__](http://www.github.com/stephenry/cc) A event-driven Cache Coherency protocol simulator for multiprocessor System-On-Chips (SOC). 
+- [__Cache Coherency Simulator__](http://www.github.com/stephenry/cc) A C++17 event-driven Cache Coherency protocol simulator for multiprocessor System-On-Chips (SOC). 
 
 - [__Financial Matching Engine__](http://www.github.com/stephenry/ob) A high-performance financial :dollar: matching engine for FPGA targets.
 
