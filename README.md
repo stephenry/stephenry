@@ -14,4 +14,4 @@ I'm Steve, Scottish :scotland: computer engineer :computer: and semiconductor pr
 
 - [__Logic Design Interview Questions__](http://www.github.com/stephenry/hw_interview_questions) A set of common hardware related design questions, for those interested in a career in the semiconductor industry.
 
-I am based in both the US (Bay Area) :us: and UK (London) :uk: and share dual-UK/-USA nationality :customs:. I currently write C++ in London. I am not actively seeking employment, but if you are interested in collaborating, get in touch :telephone:.
+I am based in both the US (Bay Area) :us: and UK (London) :uk: and share dual-UK/-USA nationality :customs:. I am currently employed as a software engineer in London. I am not actively seeking employment, but if you are interested in collaborating, get in touch :telephone:.
