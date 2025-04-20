@@ -14,6 +14,6 @@
 
 [s](https://github.com/stephenry/s)
 
-### 2025
+### 2025
 
 [u](https://github.com/stephenry/u)
