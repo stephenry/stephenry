@@ -1,6 +1,6 @@
 ## About:
 
-Experienced Computer Engineer with advanced proficiency in Logic Design, Computer Architecture and Software Modelling (specifically C++). My background is as a logic designer but my day to day is writing C++ at a large well-known chip-company. I am based in the UK, but have dual UK-/USA- nationality.
+Experienced Computer Engineer with advanced proficiency in Logic Design, Computer Architecture and C/C++-based Reference/Architectural Models. My background is as a logic designer but my day to day is writing C++ at a large well-known chip-company. I am based in the UK, but have dual UK-/USA- nationality.
 
 ## Projects by year
 
@@ -31,3 +31,4 @@ Experienced Computer Engineer with advanced proficiency in Logic Design, Compute
 ### WIP
 
 #### [h](https://github.com/stephenry/h): High-Performance Key/Value Store (SystemVerilog/C++)
+
