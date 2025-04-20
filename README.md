@@ -18,7 +18,7 @@
 
 ### 2025
 
-#### [u](https://github.com/stephenry/u): Unary-Code Admission Circuits for an arbitrary vector length (SystemVerilog/C++)
+#### [u](https://github.com/stephenry/u): Unary-Code Admission Circuits for Arbitrary Vector Lengths (SystemVerilog/C++)
 
 ### WIP
 
