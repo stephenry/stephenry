@@ -24,6 +24,9 @@ Experienced Computer Engineer with advanced proficiency in Logic Design, Compute
 
 #### [ob](https://github.com/stephenry/ob): High-Performance Order-Book Implementation for FPGA Platforms (SystemVerilog/C++)
 
+### pre-2018
+
+#### [qs](https://github.com/stephenry/qs) Microcoded Implementation of the Quicksort Algorithm (SystemVerilog/C++)
 
 ### WIP
 
