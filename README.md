@@ -20,7 +20,7 @@ Experienced Computer Engineer with advanced proficiency in Logic Design, Compute
 
 #### [m](https://github.com/stephenry/m): Elementary Packet Parser Interview Question Solution (SystemVerilog/C++)
 
-#### [cc](https://github.com/stephenry/cc): Event-Driven SOC MOESI Cache Coherency Simulator (C++)
+#### [cc](https://github.com/stephenry/cc): Event-Driven MOESI Cache Coherency Simulator (C++)
 
 #### [ob](https://github.com/stephenry/ob): High-Performance Order-Book Implementation for FPGA Platforms (SystemVerilog/C++)
 
