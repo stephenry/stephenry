@@ -1,3 +1,7 @@
+## About:
+
+Experienced Computer Engineer with advanced proficiency in Logic Design, Computer Architecture and Software Modelling (specifically C++). My background is as a logic designer but my day to day is writing C++ at a large well-known chip-company. I am based in the UK, but have dual UK-/USA- nationality.
+
 ## Projects by year
 
 ### 2020
