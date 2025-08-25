@@ -22,6 +22,8 @@ Computer Engineer with advanced proficiency in Logic Design, Computer Architectu
 
 #### [cc](https://github.com/stephenry/cc): Event-Driven MOESI Cache Coherency Simulator (C++)
 
+#### [pa](https://github.com/stephenry/pa): Networking Pool Allocator (SystemVerilog/C++)
+
 #### [ob](https://github.com/stephenry/ob): High-Performance Order-Book Implementation for FPGA Platforms (SystemVerilog/C++)
 
 ### pre-2018
