@@ -6,6 +6,8 @@ Computer Engineer with advanced proficiency in Logic Design, Computer Architectu
 
 ### 2025
 
+#### [u](https://github.com/stephenry/p): Various non-trivial Logic Design "P"-rojects.
+
 #### [u](https://github.com/stephenry/u): Unary-Code Admission Circuits for Arbitrary Vector Lengths (SystemVerilog/C++)
 
 ### 2023
